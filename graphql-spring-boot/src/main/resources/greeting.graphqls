@@ -1,0 +1,12 @@
+type Greeting {
+  id: ID!
+  message: String!
+}
+
+type Query {
+  getGreeting(id: ID!): Greeting
+}
+
+type Mutation {
+  newGreeting(message: String!): Greeting!
+}
