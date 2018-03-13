@@ -4,12 +4,12 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>com.codenotfound</groupId>
-  <artifactId>graphql-spring-boot</artifactId>
+  <artifactId>graphql-java-spring-boot</artifactId>
   <version>0.0.1-SNAPSHOT</version>
 
-  <name>graphql-spring-boot</name>
-  <description>GraphQL - Spring Boot Example</description>
-  <url>https://www.codenotfound.com/graphql-spring-boot-example.html</url>
+  <name>graphql-java-spring-boot</name>
+  <description>GraphQL Java - Spring Boot Example</description>
+  <url>https://www.codenotfound.com/graphql-java-spring-boot-example.html</url>
 
   <parent>
     <groupId>org.springframework.boot</groupId>
