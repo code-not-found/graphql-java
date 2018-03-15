@@ -23,7 +23,7 @@
     <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
     <java.version>1.8</java.version>
 
-    <graphql-spring-boot-starter.version>3.10.0</graphql-spring-boot-starter.version>
+    <graphql-spring-boot.version>3.10.0</graphql-spring-boot.version>
     <graphql-java-tools.version>4.3.0</graphql-java-tools.version>
   </properties>
 
@@ -37,7 +37,7 @@
     <dependency>
       <groupId>com.graphql-java</groupId>
       <artifactId>graphql-spring-boot-starter</artifactId>
-      <version>${graphql-spring-boot-starter.version}</version>
+      <version>${graphql-spring-boot.version}</version>
     </dependency>
     <dependency>
       <groupId>com.graphql-java</groupId>
@@ -47,7 +47,7 @@
     <dependency>
       <groupId>com.graphql-java</groupId>
       <artifactId>graphiql-spring-boot-starter</artifactId>
-      <version>${graphql-spring-boot-starter.version}</version>
+      <version>${graphql-spring-boot.version}</version>
     </dependency>
   </dependencies>
 
